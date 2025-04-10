@@ -12,7 +12,6 @@ Here, we will work collectively on our final project, with the research question
 
 ## description:
 
-
 ## labour division:
 
 ## program manual:
