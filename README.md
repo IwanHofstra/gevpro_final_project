@@ -15,25 +15,18 @@ This project is about the research question:  How do game attributes such as gen
 We have tried to awnser this research question with the following dataset:
 https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
 
-We made use of Jupyter Notebook for good visability. In Jupyter Notebook we worked mostly with Python's Pandas module. With these tool we created graphs and infographics to better visualise the results.
+We made use of Jupyter Notebook for good visability. In Jupyter Notebook we worked mostly with Python's Pandas module. With these tools we created graphs and infographics to better visualise the results.
 
 ## labour division:
 
 Iwan: Pycodestyle, explanations, unit tests, github.
+Valerio: Jupyter notebook template, Data cleaning & Proccesing, Plotting/making variable graphs.
+Parsa: Data cleaning & Processing, Plotting/making variable graphs.
 
 ## program manual:
 Download all specified files and put them in the same directory
 Make sure you have installed python, and the modules Pandas, seaborn and matplotlib.pyplot
 press run all on the Jupyter Notebook and all the results should pop up!
-
-We have also added a small test to make sure the data is cleaned.
-this test is called test_data_cleaning.py and here is how you run it:
-- Make sure you have pytest installed (in your terminal):
-"pip install pytest"
-
--Run the test in your terminal:
-"pytest test_data_cleaning.py"
-
 
 ## stakeholder value:
 The stakeholder now has valuable data on what variables influence the ratings of the games. The strongest variable was price. Price influenced the games rating a lot, and is very important in making a game. Playtime also played a role in the ratings, and should be a key factor to strive for when developing a game. Variables that are not worth a lot regarding ratings are the genres. These variables should be chosen purely by what is your preference, not if you want good ratings. 
